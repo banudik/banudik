@@ -1,4 +1,8 @@
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&center=true&vCenter=true&random=false&width=435&lines=FullStack+Developer" alt="Typing SVG" /></a>
+  </div>
+###
+<div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
@@ -76,3 +80,4 @@
 </div>
 
 ###
+
