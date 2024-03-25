@@ -24,5 +24,6 @@
 
 <div align="center">
   <p align="center"><strong>📊 GitHub Stats👇</strong></p>
-   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=buefy&preferLogin=false">    <img  alt="banudik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/banudik?cardType=level-alternate&theme=buefy&preferLogin=false" />  </a>
+     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=midnight-purple&preferLogin=false&Background=EEEEEE&Text=B082FF">    <img  alt="banudik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/banudik?cardType=github&theme=midnight-purple&preferLogin=false&Background=EEEEEE&Text=B082FF" />  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=banudik&theme=midnight-purple&background=EBEBEB&dates=6318EA" alt="GitHub Streak" /></a>
 </div>
