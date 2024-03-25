@@ -24,8 +24,7 @@
 
 <div align="center">
   <p><strong>📊 GitHub Stats👇</strong></p>
-   <img src="https://github-readme-stats.vercel.app/api?username=banudik&theme=buefy&hide_border=false&include_all_commits=false&count_private=false">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=banudik&theme=buefy&hide_border=false">
+   <img src="https://github-readme-stats.vercel.app/api?username=banudik&theme=buefy&hide_border=false&include_all_commits=false&count_private=false"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=banudik&theme=buefy&hide_border=false">
 </div>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banudik&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact"><br>
