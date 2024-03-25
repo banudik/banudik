@@ -22,10 +22,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <p><strong>📊 GitHub Stats👇</strong></p>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=banudik&theme=buefy&show_icons=true&hide_border=true&count_private=true">
+<div align="left">
+  <p align="center"><strong>📊 GitHub Stats👇</strong></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banudik&theme=buefy&show_icons=true&hide_border=true&layout=compact"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=banudik&theme=buefy&show_icons=true&hide_border=true&count_private=true"><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=banudik&theme=buefy&hide_border=true"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=banudik&theme=buefy&show_icons=true&hide_border=true&layout=compact">
+
 </div>
