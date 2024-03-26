@@ -24,11 +24,17 @@
 
 <div align="left">
   <p align="center"><strong>📊 GitHub Stats👇</strong></p>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=midnight-purple&preferLogin=false&Background=0C0C0C&Text=B082FF"><img  alt="banudik's GitHub Stats"  src="https://awesome-github-stats.azurewebsites.net/user-stats/banudik?cardType=github&theme=midnight-purple&preferLogin=false&Background=0C0C0C&Text=B082FF"/></a> 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=banudik&theme=midnight-purple&background=0C0C0C&dates=6318EA" alt="GitHub Streak" align="right"/></a>
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=midnight-purple&preferLogin=false&Background=000000&Text=B082FF">    <img  alt="banudik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/banudik?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000&Text=B082FF" /> </a>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=banudik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=banudik&theme=midnight-purple&background=000000" alt="GitHub Streak" align="right"/></a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=31&duration=3000&pause=1000&color=8F87F7&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting%F0%9F%92%9C" alt="Typing SVG" /></a>
 </div>
+
+
+
 
