@@ -8,7 +8,7 @@
     <p><strong>💜 About me: 👽</strong></p>
 
 <p>🔭 I’m currently working on enhancing my skills in software development.</p>
-<p>💬 Ask me about anything related to language, games etc.</p>
+<p>💬 Ask me about anything related to languages, games etc.</p>
 <p>🎮 My hobbies: Video games, puzzles, painting and drawing etc. </p>
 <p>💌 How to reach me: <a href="mailto:banudik_34@hotmail.com">banudik_34@hotmail.com</a></p>
     
